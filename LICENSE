@@ -14,7 +14,7 @@ Here are the changes by ChildProgrammer
 infer-web.py：
 Row 827：maximum=2333 → maximum=1000（id）
 Row 1039：value=1 → value=0.25（volume envelope scaling）
-Row 1066：value=1 → value=0.76（search feature ratio）
+Row 1066：value=1 → value=0.75（search feature ratio）
 Row 1219：maximum=4 → maximum=1000（id）
 Row 1295：maximum=50 → maximum=1000（save_every_epoch）
 
