@@ -6,5 +6,5 @@ Classic RVC WebUI：Repository for the RVC v2 model of Retrieval-based-Voice-Con
 October 28, 2024：Repository in use: October 15, 2024 edition<br>
 2024年10月28日（使用中のリポジトリ：2024年10月15日版）<br><br>
 【Last Updated - 最終更新】<br>
-November 11, 2024<br>
-2024年11月11日<br>
+December 20, 2024<br>
+2024年12月20日<br>
