@@ -3,7 +3,7 @@ Classic RVC WebUI：Repository for the RVC v2 model of Retrieval-based-Voice-Con
 （古典的なRVC WebUI：RVC WebUIのRVC v2モデルをRunPodで使うためのリポジトリです。） 
 <br><br><br>
 【Tutorial Article - チュートリアル記事】<br>
-<a href="https://child-programmer.com/rvc-tutorial-rp/" title="【RVC v2モデル対応版】移行ガイド：RunPodでRVC WebUIを使う方法（要点解説）by 子供プログラマー" rel="noopener" target="_blank">【RVC v2モデル対応版】移行ガイド：RunPodでRVC WebUIを使う方法（要点解説）by 子供プログラマー</a>
+<a href="https://child-programmer.com/rvc-v2-transition-guide-rp/" title="【RVC v2モデル対応版】移行ガイド：RunPodでRVC WebUIを使う方法（要点解説）by 子供プログラマー" rel="noopener" target="_blank">【RVC v2モデル対応版】移行ガイド：RunPodでRVC WebUIを使う方法（要点解説）by 子供プログラマー</a>
 <br><br>
 【Tutorial Video - チュートリアル動画】<br>
 <a href="https://youtu.be/O0_8063E0y8" title="【移行ガイド】RunPod編 - RVC WebUIの使い方入門：AIボイスチェンジャー RVC WebUI with RunPod - AI Voice Changer Tutorial by RehabC - デジタルで、遊ぶ。（YouTube）" rel="noopener" target="_blank">【移行ガイド】RunPod編 - RVC WebUIの使い方入門：AIボイスチェンジャー RVC WebUI with RunPod - AI Voice Changer Tutorial by RehabC - デジタルで、遊ぶ。（YouTube）</a>
